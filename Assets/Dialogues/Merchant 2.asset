@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 637c231a1ec2bef47867a087cd7f56da, type: 3}
+  m_Name: Merchant 2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Merchant: Ah adventurer, you made it!'
+  - "Adventurer: Uh\u2026! Yeah I did! How did you get here before me?\r"
+  - "Merchant: What do you mean?\r"
+  - "Adventurer: Well, you said the secret path was the only way to the forest\r"
+  - "Merchant: That\u2019s right!\r"
+  - "Adventurer: And I took the secret path, in fact I moved quickly and yet you
+    got here before me! How?\r"
+  - "Merchant: Uh\u2026! Well! You know! I\u2019ve got my ways!\r"
+  - "Adventurer: What ways?\r"
+  - "Merchant: Just\u2026 Ways!\r"
+  - "Adventurer: Is there another secret path through the forest?\r"
+  - "Merchant: NO!\r"
+  - "Adventurer: Well then how did you get here before me??\r"
+  - "Merchant: I don\u2019t know what to tell you! Just accept it, Hiro!\r"
+  - "Adventurer: No, I will not accept it!\r"
+  - "Merchant: Hey, look! Would you like to buy some potions? I have lots of potions.\r"
+  - "Adventurer: You know what\u2026? I just remembered I left a\u2026 thing\u2026
+    that I need for my adventuring back in honeywood. So I might just head back through
+    the secret path and go get it!\r"
+  - "Merchant: Yeah! Right! Sure! Fine! Good luck on your travels!\r"
+  - "Adventurer: Oh yeah?\r"
+  - 'Merchant: Farewell!'
